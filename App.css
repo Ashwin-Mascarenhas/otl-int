@@ -1,0 +1,19 @@
+/* i've tried to make it very similar to Outlook, if u feel you can improve on the same kindly feel free to do so -Ashwin */
+
+.app {
+    display: grid;
+    grid-template-columns: auto 1fr;
+  }
+  
+  header {
+    background: #0078d4;
+  }
+  
+  aside {
+    background: #f2f2f2;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
